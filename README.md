@@ -57,9 +57,9 @@ Once the Ambari Server service has been restarted, you should see Elasticsearch 
 This service has been tested with the following:
 
 - CentOS 6.x
-- Ambari 2.4.2.0
+- Ambari 2.4+
 - HDP 2.5.3.0
-- Elasticsearch 5.x
+- Elasticsearch 2.*
 
 ## Limitations
 
